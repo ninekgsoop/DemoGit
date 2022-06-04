@@ -14,4 +14,12 @@ h1 {
     top: 2.5%;
     left: 25%;
 }
+
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:bisque; 
+    font-weight: 930;
+    text-align: center;
+}
+
     
