@@ -1,0 +1,17 @@
+body {
+    background-color: crimson;
+}
+
+h1 {
+    background-color: goldenrod;
+    text-align: center;
+    font-weight: 700;
+    font-style: oblique;
+    margin: 25px;
+    width: 50%;
+    border-style: groove;
+    position: relative;
+    top: 2.5%;
+    left: 25%;
+}
+    
